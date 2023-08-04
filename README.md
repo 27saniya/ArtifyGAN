@@ -27,7 +27,7 @@ Inspired from CartonnGAN, developeed and implemented the below architecture for 
 
 - Quantitative Results<br>
 
-FID score: 
+FID score:  The metric used to measure the distance between the distributions of the given input image and the corresponding generated animated image. <br>
   ![image](https://github.com/27saniya/ArtifyGAN/assets/101293878/9f732c93-77a5-4bf3-b775-0b3ef9259c59)
 
 Conclusion <br>
