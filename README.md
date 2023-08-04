@@ -10,5 +10,15 @@ The primary goal of this project is to develop an efficient and realistic animat
   Consists of more than 200K celebrity images and various ttributes such as gender, presence of glasses, and facial landmarks, which facilitates training the model to capture facial expressions and features
 
 - COCO dataset: https://cocodataset.org/ <br>
-  Consists of a diverse range of real-world images, enabling the model to understand and identify objects within their contextual settings 
+  Consists of a diverse range of real-world images, enabling the model to understand and identify objects within their contextual settings
+
+- Cartoon Dataset: https://safebooru.org/index.php?page=post&s=list <br>
+  Consists of collection of cartoon images sourced from the safebooru website, allowing the model to capture the unique style and features of cartoon images
+
+
+## ArtifyGAN Architecture
+![image](https://github.com/27saniya/ArtifyGAN/assets/101293878/0936f2ef-8d19-49a5-8ff3-4111591d6d82)
+
+
+  
 
