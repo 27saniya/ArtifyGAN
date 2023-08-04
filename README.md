@@ -7,5 +7,5 @@ The primary goal of this project is to develop an efficient and realistic animat
 ## Dataset Used for Training
 
 CelebA dataset: https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
-Consist of more than 200K celebrity images and various ttributes such as gender, presence of glasses, and facial landmarks, which facilitates training the model to capture facial expressions and features
+- Consist of more than 200K celebrity images and various ttributes such as gender, presence of glasses, and facial landmarks, which facilitates training the model to capture facial expressions and features
 
