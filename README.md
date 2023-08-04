@@ -23,7 +23,8 @@ Inspired from CartonnGAN, developeed and implemented the below architecture for 
 ## Results:
 - Qualitative Results
 
-  ![image](https://github.com/27saniya/ArtifyGAN/assets/101293878/49c47a8e-7228-4139-8353-7f8f71cfe2d9)
+ ![image](https://github.com/27saniya/ArtifyGAN/assets/101293878/0e3c42b9-44da-4189-b0e2-eab7bd0b7ba7)
+
 
 
 
