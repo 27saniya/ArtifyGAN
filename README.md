@@ -30,6 +30,16 @@ Inspired from CartonnGAN, developeed and implemented the below architecture for 
 FID score: 
   ![image](https://github.com/27saniya/ArtifyGAN/assets/101293878/9f732c93-77a5-4bf3-b775-0b3ef9259c59)
 
+Conclusion <br>
+- ArtifyGAN is less complex as compared to other existing models for
+generating animated images
+- Designing the model from scratch allowed us to define the architecture and
+modify hyperparameters to better suit our specific dataset and target style
+- Although
+ArtifyGAN was trained on a smaller dataset and for less training
+time as compared to other pre trained models, it is still producing high
+quality animated results
+
 
 
 
