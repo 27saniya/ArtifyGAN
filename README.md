@@ -33,7 +33,7 @@ FID score:
 Conclusion <br>
 - ArtifyGAN is less complex as compared to other existing models for
 generating animated images
-- Designing the model from scratch allowed us to define the architecture and
+- Designing the model from scratch allowed to define the architecture and
 modify hyperparameters to better suit our specific dataset and target style
 - Although
 ArtifyGAN was trained on a smaller dataset and for less training
