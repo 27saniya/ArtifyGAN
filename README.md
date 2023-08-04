@@ -20,6 +20,12 @@ The primary goal of this project is to develop an efficient and realistic animat
 Inspired from CartonnGAN, developeed and implemented the below architecture for generating animated face images for gicen input image
 ![image](https://github.com/27saniya/ArtifyGAN/assets/101293878/0936f2ef-8d19-49a5-8ff3-4111591d6d82)
 
+## Results:
+- Qualitative Results
+
+  ![image](https://github.com/27saniya/ArtifyGAN/assets/101293878/49c47a8e-7228-4139-8353-7f8f71cfe2d9)
+
+
 
   
 
